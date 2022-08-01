@@ -15,7 +15,7 @@ public class MyStringStackTest {
 	public void setUp() throws Exception{
 		s1 = "Hello";
 		s2 = "World";
-		s3 = "!";
+		s3 = "null";
 		o1 = null;
 		o2 = null;		
 	}
